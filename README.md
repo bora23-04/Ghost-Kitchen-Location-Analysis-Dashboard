@@ -83,5 +83,11 @@ Detailed insights on hover (city, reviews, ratings)
 
 <img width="1145" height="651" alt="image" src="https://github.com/user-attachments/assets/70bcee2d-fcec-4897-9b44-aaccb548d450" />
 
+## 📁 Power BI File
+
+Due to GitHub file size limits, the Power BI (.pbix) file is hosted externally.
+
+🔗 Download the PBIX file here:  https://drive.google.com/drive/folders/14Dyf0elsEbQuD4DDvQaKQObxDatNne0U?usp=sharing
+
 
 
