@@ -4,10 +4,10 @@
 The rapid growth of ghost kitchens has increased competition, making it difficult for businesses to identify profitable locations. This project aims to analyze city-level restaurant data to identify high-opportunity locations for launching ghost kitchens based on customer demand, ratings, review volume, and competition intensity.
 
 ### Project Overview
-• Identify cities with high demand but manageable competition
-• Analyze customer ratings and total reviews to understand market behavior
-• Compare cities to highlight top opportunities for ghost kitchen expansion
-• Enable interactive exploration using filters and drill-down visuals
+####### • Identify cities with high demand but manageable competition
+####### • Analyze customer ratings and total reviews to understand market behavior
+####### • Compare cities to highlight top opportunities for ghost kitchen expansion
+####### • Enable interactive exploration using filters and drill-down visuals
 
 ### Dataset Description
 The dataset contains restaurant-level information, including:
