@@ -1,14 +1,13 @@
 # Ghost-Kitchen-Location-Analysis-Dashboard
 
-### Project Overview
-This project focuses on identifying high-potential locations for opening ghost kitchens using restaurant review and rating data.
-The dashboard helps analyze competition intensity, customer demand, and opportunity zones across different cities using Power BI.
+### Problem Statement:
+The rapid growth of ghost kitchens has increased competition, making it difficult for businesses to identify profitable locations. This project aims to analyze city-level restaurant data to identify high-opportunity locations for launching ghost kitchens based on customer demand, ratings, review volume, and competition intensity.
 
-### Objectives
-1. Identify high-demand but low-competition cities
-2. Analyze restaurant review counts and ratings
-3. Visualize competition hot zones using map-based analytics
-4. Support data-driven decisions for ghost kitchen expansion
+### Project Overview
+• Identify cities with high demand but manageable competition
+• Analyze customer ratings and total reviews to understand market behavior
+• Compare cities to highlight top opportunities for ghost kitchen expansion
+• Enable interactive exploration using filters and drill-down visuals
 
 ### Dataset Description
 The dataset contains restaurant-level information, including:
@@ -27,6 +26,7 @@ stars – Average rating
 review_count – Number of reviews
 
 total_reviews – Aggregated reviews
+Data was cleaned and filtered to focus on food-related businesses only.
 
 ### Key Metrics (DAX Measures)
 ##### Competition Score
@@ -52,23 +52,25 @@ Review count
 
 Restaurant name
 
+##### Donout Chart
+Which cities have the most food business activity?
+
 ##### Tooltips
 Detailed insights on hover (city, reviews, ratings)
 
-### Tools & Technologies
-
-Power BI Desktop
-
-DAX (Data Analysis Expressions)
-
-Excel Dataset
-
-Maps
+### Tools & Skills Demonstrated
+• Power BI Desktop
+• DAX (calculated measures & aggregations)
+• Data Cleaning & Transformation
+• Exploratory Data Analysis (EDA)
+• Business Insight Generation
+• Data Visualization & Storytelling
 
 ### Key Insights
-1. Cities with high demand but lower competition offer strong ghost kitchen opportunities
-2. Dense clusters indicate high competition zones
-3. Rating-based filtering improves location selection accuracy
+• Cities with high total reviews but moderate ratings indicate strong demand
+• Certain mid-sized cities offer better opportunities than saturated metro areas
+• High competition does not always correlate with higher customer satisfaction
+• Ghost kitchens can gain advantage through quality differentiation in high-demand cities
 
 ### How to Use
 1. Download the .pbix file
@@ -77,4 +79,9 @@ Maps
 4. Analyze hot zones and opportunity rankings
 
 ### Dashboard Preview
+<img width="1159" height="653" alt="image" src="https://github.com/user-attachments/assets/9c0818c7-5665-4b38-b6c1-f09b426eac93" />
+
+<img width="1145" height="651" alt="image" src="https://github.com/user-attachments/assets/70bcee2d-fcec-4897-9b44-aaccb548d450" />
+
+
 
